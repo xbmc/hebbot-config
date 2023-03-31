@@ -1,0 +1,32 @@
+bot_user_id = '@kodi-news-bot:matrix.org'
+# bot password is specified via the BOT_PASSWORD environment variable
+reporting_room_id = '!ZkhyvdQZlVtbAHggkH:matrix.org'
+admin_room_id = '!ewOgBYPaKBUgsTkwTU:matrix.org'
+notice_emoji = '⭕'
+restrict_notice = true
+image_markdown = '> ![]({{file}})'
+video_markdown = '> {{< video src="{{file}}" >}}'
+verbs = ["reports", "says", "announces"]
+min_length = 30
+# Set to '' to disable text response
+ack_text = "✅ Thanks for the report {{user}}, I'll store your update!"
+update_config_command = "/data/update_config.sh"
+editors = [
+    '@razzee:matrix.org',
+    '@yol:matrix.org',
+]
+
+[[sections]]
+emoji = '🔵'
+name = 'core'
+title = 'Core Apps and Libraries'
+order = 100
+usual_reporters = ['@user1:domain.io']
+
+[[sections]]
+emoji = '🛰️'
+name = 'third-party'
+title = 'Third Party Projects'
+order = 200
+usual_reporters = []
+
