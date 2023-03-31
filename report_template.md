@@ -1,16 +1,16 @@
 ---
-title: "#{{weeknumber}} This Week in X"
+title: "Recently in Kodi"
 author: {{author}}
 date: {{today}}
 tags: [{{projects}}]
-categories: ["weekly-update"]
+categories: ["dev-update"]
 draft: false
 ---
 
-Update on what happened across the X project in the week from {{timespan}}.
+Update on what happened across the Kodi project recent days.
 
 {{sections}}
 
-# That’s all for this week!
+# That’s all for now!
 
-See you next week!
+See you next time!
