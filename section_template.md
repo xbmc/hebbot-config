@@ -1,4 +1,4 @@
-# {{section.title}} {{section.emoji}}
+# {{section.title}}
 
 {{section.news}}
 
