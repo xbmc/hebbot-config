@@ -18,22 +18,29 @@ editors = [
 
 [[sections]]
 emoji = '🔵'
-name = 'core'
-title = 'Core Apps and Libraries'
+name = 'general'
+title = 'General'
 order = 100
-usual_reporters = ['@user1:domain.io']
+usual_reporters = []
 
 [[sections]]
 emoji = '🛰️'
 name = 'third-party'
 title = 'Third Party Projects'
-order = 200
+order = 500
 usual_reporters = []
+
+[[sections]]
+emoji = ''
+name = 'addons'
+title = 'Addons'
+order = 200
 
 [[projects]]
 emoji = '😎'
 name = 'kodi'
 title = 'Kodi'
-description = 'Kodi!'
+description = 'Kodi mediacenter'
 website = 'https://kodi.tv/'
-default_section = 'core'
+default_section = 'general'
+
