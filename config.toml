@@ -30,3 +30,10 @@ title = 'Third Party Projects'
 order = 200
 usual_reporters = []
 
+[[projects]]
+emoji = '😎'
+name = 'kodi'
+title = 'Kodi'
+description = 'Kodi!'
+website = 'https://kodi.tv/'
+defalut_section = 'core'
