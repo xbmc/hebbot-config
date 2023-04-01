@@ -3,9 +3,12 @@ title: "Recently in Kodi"
 author: {{author}}
 date: {{today}}
 tags: [{{projects}}]
-categories: ["dev-update"]
-draft: false
+featured_image:
+  title: Kodi Logo
+  src: /images/blog/kodi-logo-2.webp
+  alt: Kodi Logo
 ---
+
 
 Update on what happened across the Kodi project recent days.
 
