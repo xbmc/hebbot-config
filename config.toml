@@ -18,16 +18,9 @@ editors = [
 
 [[sections]]
 emoji = '🔵'
-name = 'general'
-title = 'General'
+name = 'kodi'
+title = 'Kodi'
 order = 100
-usual_reporters = []
-
-[[sections]]
-emoji = '🛰️'
-name = 'third-party'
-title = 'Third Party Projects'
-order = 500
 usual_reporters = []
 
 [[sections]]
@@ -37,11 +30,66 @@ title = 'Addons'
 order = 200
 usual_reporters = []
 
+[[sections]]
+emoji = '🛰️'
+name = 'third-party'
+title = 'Third Party Projects'
+order = 500
+usual_reporters = []
+
+[[projects]]
+emoji = '📢'
+name = 'announcements'
+title = 'Announcements'
+description = 'Announcements from the Kodi team'
+website = 'https://kodi.tv/'
+default_section = 'kodi'
+
 [[projects]]
 emoji = '😎'
-name = 'kodi'
-title = 'Kodi'
-description = 'Kodi mediacenter'
+name = 'core'
+title = 'Core'
+description = 'Kodi core'
 website = 'https://kodi.tv/'
-default_section = 'general'
+default_section = 'kodi'
+
+[[projects]]
+emoji = '🏗️'
+name = 'infrastructure'
+title = 'Infrastructure'
+description = 'Kodi servers and services'
+website = 'https://kodi.tv/'
+default_section = 'kodi'
+
+[[projects]]
+emoji = '📺'
+name = 'pvr'
+title = 'PVR'
+description = 'Kodi PVR'
+website = 'https://kodi.tv/'
+default_section = 'kodi'
+
+[[projects]]
+emoji = '🌐'
+name = 'translations'
+title = 'Translations'
+description = 'Kodi translations'
+website = 'https://kodi.tv/'
+default_section = 'kodi'
+
+[[projects]]
+emoji = '🕹️'
+name = 'retroplayer'
+title = 'RetroPlayer'
+description = 'Kodi RetroPlayer'
+website = 'https://kodi.tv/'
+default_section = 'kodi'
+
+[[projects]]
+emoji = '🎨'
+name = 'skinning'
+title = 'Skinning'
+description = 'Kodi Skinning'
+website = 'https://kodi.tv/'
+default_section = 'kodi'
 
