@@ -35,6 +35,7 @@ emoji = ''
 name = 'addons'
 title = 'Addons'
 order = 200
+usual_reporters = []
 
 [[projects]]
 emoji = '😎'
