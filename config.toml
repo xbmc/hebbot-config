@@ -24,7 +24,7 @@ order = 100
 usual_reporters = []
 
 [[sections]]
-emoji = ''
+emoji = '📦'
 name = 'addons'
 title = 'Addons'
 order = 200
