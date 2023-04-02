@@ -1,5 +1,5 @@
 ---
-title: "Recently in Kodi"
+title: "Previously on Kodi"
 author: {{author}}
 date: {{today}}
 tags: [{{projects}}]
@@ -10,7 +10,7 @@ featured_image:
 ---
 
 
-Update on what happened across the Kodi project recent days.
+Update on what happened across the Kodi project previously.
 
 {{sections}}
 
