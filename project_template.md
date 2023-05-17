@@ -1,4 +1,4 @@
-### {{project.title}} [↗]({{project.website}})
+### {{project.title}}
 
 {{project.description}}
 
