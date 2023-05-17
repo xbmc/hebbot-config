@@ -47,6 +47,7 @@ title = 'Announcements'
 description = 'Announcements from the Kodi team'
 website = 'https://kodi.tv/'
 default_section = 'kodi'
+order = 100
 
 [[projects]]
 emoji = '😎'
@@ -55,6 +56,7 @@ title = 'Core'
 description = 'Kodi core'
 website = 'https://kodi.tv/'
 default_section = 'kodi'
+order = 200
 
 [[projects]]
 emoji = '🏗️'
@@ -63,6 +65,7 @@ title = 'Infrastructure'
 description = 'Kodi servers and services'
 website = 'https://kodi.tv/'
 default_section = 'kodi'
+order = 800
 
 [[projects]]
 emoji = '📺'
@@ -71,6 +74,7 @@ title = 'PVR'
 description = 'Kodi PVR'
 website = 'https://kodi.tv/'
 default_section = 'kodi'
+order =500
 
 [[projects]]
 emoji = '🌐'
@@ -79,6 +83,7 @@ title = 'Translations'
 description = 'Kodi translations'
 website = 'https://kodi.tv/'
 default_section = 'kodi'
+order = 600
 
 [[projects]]
 emoji = '🕹️'
@@ -87,6 +92,7 @@ title = 'RetroPlayer'
 description = 'Kodi RetroPlayer'
 website = 'https://kodi.tv/'
 default_section = 'kodi'
+order = 550
 
 [[projects]]
 emoji = '🎨'
@@ -95,4 +101,5 @@ title = 'Skinning'
 description = 'Kodi Skinning'
 website = 'https://kodi.tv/'
 default_section = 'kodi'
+order = 300
 
